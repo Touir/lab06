@@ -22,4 +22,4 @@ jobs:
       - name: check
         shell: bash
         run: |
-          _build/Hello
+          hello_world_application/_build/Hello
