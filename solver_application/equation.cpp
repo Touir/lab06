@@ -5,9 +5,9 @@
 
 int main(int argc, char *argv[])
 {
-    float a = argv[0];
-    float b = argv[1];
-    float c = argv[2];
+    float a = (float) argv[0];
+    float b = (float) argv[1];
+    float c = (float) argv[2];
 
     float x1 = 0;
     float x2 = 0;
