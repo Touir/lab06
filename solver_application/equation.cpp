@@ -9,7 +9,7 @@ int main()
     float b = 0;
     float c = 0;
    
-    std::cin << a << b  << c;
+    std::cin >> a >> b >> c;
     
     float x1 = 0;
     float x2 = 0;
