@@ -1,4 +1,4 @@
-name: test_actions
+name: build+check
 on: [push]
 jobs:
   build:
@@ -19,3 +19,7 @@ jobs:
         run: |
           cmake -H. -B_build
           cmake --build _build
+      - name: check
+        shell: bash
+        run: |
+          _build/Hello
