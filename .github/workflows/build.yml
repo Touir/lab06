@@ -23,3 +23,8 @@ jobs:
         shell: bash
         run: |
           hello_world_application/_build/Hello
+          solver_application/_build/Solver
+          10
+          11
+          12
+          
