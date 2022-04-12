@@ -1,0 +1,4 @@
+/home/touir/Touir/workspace/lab04/hello_world_application/_build/CMakeFiles/hello.dir
+/home/touir/Touir/workspace/lab04/hello_world_application/_build/CMakeFiles/Hello.dir
+/home/touir/Touir/workspace/lab04/hello_world_application/_build/CMakeFiles/edit_cache.dir
+/home/touir/Touir/workspace/lab04/hello_world_application/_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/touir/Touir/workspace/lab04/formatter_lib/_build/CMakeFiles/print.dir
+/home/touir/Touir/workspace/lab04/formatter_lib/_build/CMakeFiles/edit_cache.dir
+/home/touir/Touir/workspace/lab04/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
