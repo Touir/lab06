@@ -27,6 +27,7 @@ jobs:
 
   Archives:
     needs: Release
+    permissions: write-all
     runs-on: ubuntu-latest
     
     steps:
@@ -62,6 +63,7 @@ jobs:
        
   Binary_deb_rpm:
     needs: Release
+    permissions: write-all
     runs-on: ubuntu-latest
     
     steps:
@@ -102,6 +104,7 @@ jobs:
      
   Binary_msi:
     needs: Release
+    permissions: write-all
     runs-on: windows-latest
     
     steps:
@@ -125,6 +128,7 @@ jobs:
 
   Binary_dmg:    
     needs: Release
+    permissions: write-all
     runs-on: macos-latest
     
     steps:
