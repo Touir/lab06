@@ -1,10 +1,7 @@
 name: Formatter_application
 
 on:
-  push:
-      branches: 
-      - main
-  
+  [push]
 
 jobs:
   Libraries:
