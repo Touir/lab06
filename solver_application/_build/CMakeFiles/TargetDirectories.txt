@@ -1,4 +1,0 @@
-/home/touir/Touir/workspace/lab04/solver_application/_build/CMakeFiles/solver.dir
-/home/touir/Touir/workspace/lab04/solver_application/_build/CMakeFiles/Solver.dir
-/home/touir/Touir/workspace/lab04/solver_application/_build/CMakeFiles/edit_cache.dir
-/home/touir/Touir/workspace/lab04/solver_application/_build/CMakeFiles/rebuild_cache.dir
