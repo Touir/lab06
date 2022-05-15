@@ -1,10 +1,7 @@
 name: Archive_Create
 
 on:
-  push:
-      branches: 
-      - main
-      
+  [push]
 jobs:
 
   Release:
